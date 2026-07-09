@@ -1,13 +1,6 @@
 # REPOSITORY-ARTIFACT-IMARCH_VERDICTUM_MANIFEST_V1_REFINED_2026
 Verdictum - Решение из вне...
 
-# REPOSITORY ARTIFACT: IMARCH_VERDICTUM_MANIFEST_V1_REFINED_2026
-# METADATA: 
-#   System-ID: IMH-VERDICTUM-NLP-LANDING-V1-REFINED
-#   Core-Protocol: Protocol 8888 / Chronicle OS / RDIAR / Verdictum Record (VR)
-#   Stylization: Refined British Style / High-Density NLP-Landing / Strategic Cinema
-#   Status: ULTIMATE B2B CONTOURS ACTIVE & DEPLOYED
-
 # Приговор хаосу: Как Вердикт Имархии переводит трансграничный беспредел в цифровую память элит
 
 ## Серия II. Доктрина досудебного суверенитета и квантовый нотариат для глобальных игроков
