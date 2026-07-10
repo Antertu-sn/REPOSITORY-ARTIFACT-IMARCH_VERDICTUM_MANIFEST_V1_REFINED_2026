@@ -1,5 +1,5 @@
 # IMARCH_VERDICTUM_MANIFEST_2026
-Verdictum - Решение из вне...
+Verdictum - Решение настоящего и будущего...
 <img width="1024" height="1536" alt="Copilot_20260710_031022" src="https://github.com/user-attachments/assets/c82f5197-bba6-4036-bd7f-033869ce0f01" />
 
 
