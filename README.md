@@ -1,5 +1,6 @@
 # REPOSITORY-ARTIFACT-IMARCH_VERDICTUM_MANIFEST_V1_REFINED_2026
 Verdictum - Решение из вне...
+<img width="1024" height="1536" alt="Copilot_20260710_031022" src="https://github.com/user-attachments/assets/c82f5197-bba6-4036-bd7f-033869ce0f01" />
 
 
 # Приговор хаосу: Как Вердикт Имархии переводит трансграничный беспредел в цифровую память элит
